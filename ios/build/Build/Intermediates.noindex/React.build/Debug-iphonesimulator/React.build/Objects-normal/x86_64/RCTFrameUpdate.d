@@ -1,0 +1,6 @@
+dependencies: \
+  /Users/habagat/React-Native/rn-course/node_modules/react-native/React/Base/RCTFrameUpdate.m \
+  /Users/habagat/React-Native/rn-course/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/habagat/React-Native/rn-course/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/habagat/React-Native/rn-course/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/habagat/React-Native/rn-course/node_modules/react-native/React/Base/RCTDefines.h
